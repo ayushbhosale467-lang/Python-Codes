@@ -1,0 +1,5 @@
+python is easy to learn.
+java is also popular .
+i am learning python.
+c++ is a programming language.
+python is used in AI.
